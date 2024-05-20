@@ -1,0 +1,5 @@
+Faker==25.2.0
+nltk==3.8.1
+scikit_learn==1.4.2
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
