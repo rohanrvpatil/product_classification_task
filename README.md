@@ -69,13 +69,9 @@ The model is compiled sparse categorical cross entropy loss function and adam op
 
 ## Instructions to run the code:
 
-### 1. Git Clone:
-git clone <repository_url>
-Replace `<repository_url>` with the URL of your Git repository.
-
+### 1. Extract all files from .zip:
 ### 2. Change Directory:
-cd <repository_name>
-Replace `<repository_name>` with the name of the cloned repository directory.
+cd rohan_payever_task
 
 ### 3. Create Conda Virtual Environment:
 conda create --name myenv python=3.12
